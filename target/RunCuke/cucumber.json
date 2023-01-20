@@ -1,0 +1,110 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5351121900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "As a user I want to click on login tab",
+        "description": "",
+        "id": "login-page;as-a-user-i-want-to-click-on-login-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 897478900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 105685900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Virgin games homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnVirginGamesHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 125486500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I acceptCookies",
+            "match": {
+              "location": "LoginSteps.iAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 112152900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am clicking on All Games link",
+            "match": {
+              "location": "LoginSteps.iAmClickingOnAllGamesLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on All Games page",
+            "match": {
+              "location": "LoginSteps.iAmOnAllGamesPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 320270000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify the text \"Online Slots\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Online Slots",
+                  "offset": 19
+                }
+              ],
+              "location": "LoginSteps.iVerifyText(String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login page",
+    "description": "",
+    "id": "login-page",
+    "keyword": "Feature",
+    "uri": "LiveCasio.feature"
+  }
+]

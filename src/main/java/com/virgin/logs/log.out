@@ -1,0 +1,15 @@
+2023-01-17 23:27:00 INFO  LoginPage :31 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (df370f422ee20b4f97e89e7d7f13393b)] -> xpath: //label[contains(text(),'Accept')]]
+2023-01-17 23:27:00 INFO  LoginPage :36 - Clicking on Live Login Link : [[ChromeDriver: chrome on WINDOWS (df370f422ee20b4f97e89e7d7f13393b)] -> xpath: //a[contains(text(),'Login')]]
+2023-01-17 23:27:20 INFO  LoginPage :41 - Verifying Loginm Button : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="app-main"]/div/div[1]/div[1]/div[5]/div/div[2]/div/div/div/form/fieldset/ol/li[4]/button/span'
+2023-01-17 23:27:56 INFO  LoginPage :31 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (b58faedd8fb99a9da99d7d6dc86169b3)] -> xpath: //label[contains(text(),'Accept')]]
+2023-01-17 23:27:56 INFO  LoginPage :36 - Clicking on Live Login Link : [[ChromeDriver: chrome on WINDOWS (b58faedd8fb99a9da99d7d6dc86169b3)] -> xpath: //a[contains(text(),'Login')]]
+2023-01-17 23:28:17 INFO  LoginPage :41 - Verifying Loginm Button : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="app-main"]/div/div[1]/div[1]/div[5]/div/div[2]/div/div/div/form/fieldset/ol/li[4]/button/span'
+2023-01-17 23:28:54 INFO  LoginPage :31 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (56690df87158b489520c9a79f62e22a3)] -> xpath: //label[contains(text(),'Accept')]]
+2023-01-17 23:28:54 INFO  LoginPage :36 - Clicking on Live Login Link : [[ChromeDriver: chrome on WINDOWS (56690df87158b489520c9a79f62e22a3)] -> xpath: //a[contains(text(),'Login')]]
+2023-01-17 23:29:14 INFO  LoginPage :41 - Verifying Loginm Button : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="app-main"]/div/div[1]/div[1]/div[5]/div/div[2]/div/div/div/form/fieldset/ol/li[4]/button/span'
+2023-01-17 23:49:56 INFO  LoginPage :31 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (7a166077577f6e116648c42f9431142c)] -> xpath: //*[@id="__tealiumGDPRecModal"]/div/div/div/div[2]/label]
+2023-01-17 23:49:57 INFO  LoginPage :36 - Clicking on Live Login Link : [[ChromeDriver: chrome on WINDOWS (7a166077577f6e116648c42f9431142c)] -> xpath: //span[contains(text(),'All Games')]]
+2023-01-17 23:49:57 INFO  LoginPage :41 - Verifying All Games Page : [[ChromeDriver: chrome on WINDOWS (7a166077577f6e116648c42f9431142c)] -> xpath: //*[@id="styledApp"]/div/section[1]/div/h2]
+2023-01-17 23:51:42 INFO  LoginPage :31 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (64832fcccc231d9e8df2cf404964f51a)] -> xpath: //*[@id="__tealiumGDPRecModal"]/div/div/div/div[2]/label]
+2023-01-17 23:51:42 INFO  LoginPage :36 - Clicking on Live Login Link : [[ChromeDriver: chrome on WINDOWS (64832fcccc231d9e8df2cf404964f51a)] -> xpath: //span[contains(text(),'All Games')]]
+2023-01-17 23:51:42 INFO  LoginPage :41 - Verifying All Games Page : [[ChromeDriver: chrome on WINDOWS (64832fcccc231d9e8df2cf404964f51a)] -> xpath: //*[@id="styledApp"]/div/section[1]/div/h2]
